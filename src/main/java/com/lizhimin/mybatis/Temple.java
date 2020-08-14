@@ -11,10 +11,39 @@ public class Temple {
      * 年龄
      */
     private String age;
+    
+    /**
+     * 体重
+     */
+    private String weight;
+    
+    /**
+     * 性别
+     */
+    private String sex;
+
+    /**
+     * 兴趣爱好
+     */
+    private String hobby;
+
+    
 
 
 
 
+
+
+
+
+
+
+
+
+    
+    
+    
+    
 
 
 }
