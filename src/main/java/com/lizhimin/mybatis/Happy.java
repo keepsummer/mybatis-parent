@@ -13,5 +13,4 @@ public class Happy {
     public void setBig(String big) {
         this.big = big;
     }
-
 }
